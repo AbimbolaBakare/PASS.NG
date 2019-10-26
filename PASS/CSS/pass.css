@@ -1,0 +1,66 @@
+body, html{
+    font-family: 'Roboto', sans-serif;
+}
+/* HEADER ONE */
+.hello{
+background-color:#86A51B;
+}
+.capture{
+    margin-right: 35vw;
+}
+#drop:hover{
+background-color: #86A51B;
+}
+#log{
+    border: 0.1rem solid #94B71D;
+    border-radius: 5px;
+    height: 40px;
+}
+#log:hover{
+    background-color: #86A51B;
+}
+.bgk{
+    background-image: url(../image/header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#ka:hover{
+    background-color: #94B71D;
+}
+#ff{
+    font-size: 14px;
+    font-weight:700;
+}
+#pad{
+    padding-bottom: 130px;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none !important;
+}
+#shh{
+    background-color: #86A51B !important;
+}
+/* main 4b */
+.tellme{
+background-color: #86A51B;
+}
+.colour{
+    color: #86A51B;
+}
+.bgcolour{
+    background-color: #86A51B !important;
+}
+footer{
+    background-color: #2D3E50;
+}
+.link{
+    position: absolute;
+    right: 5px;
+    top: 4px;
+    background-color: #86A51B;
+    color: white;
+    border-radius: 5px;
+}
